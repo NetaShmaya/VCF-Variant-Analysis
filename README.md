@@ -21,10 +21,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 Install dependencies:
 pip install -r requirements.txt
-Ensure your VCF file is in the correct location. The script expects it at:
-file_path = "/Users/neta/Documents/python_practice/mock_variants.vcf"
-Modify this path if needed.
-
 
 Dependencies:
 Python 3.x
