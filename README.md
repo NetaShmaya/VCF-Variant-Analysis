@@ -12,21 +12,21 @@ This project processes VCF (Variant Call Format) files to classify genetic varia
 
 ## Setup and Installation
 
-## Clone this repository:
+### Clone this repository:
 
 - git clone <your-repo-url>
 - cd <your-repo-name>
 
-## (Optional) Create and activate a virtual environment:
+### Create and activate a virtual environment:
 
 - python -m venv venv  
 - source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-## Install dependencies:
+### Install dependencies:
 
 - pip install -r requirements.txt
 
-## Dependencies:
+### Dependencies:
 
 - Python 3.x
 - pandas, scikit-learn, matplotlib
