@@ -14,8 +14,8 @@ This project processes VCF (Variant Call Format) files to classify genetic varia
 
 ### Clone this repository:
 
-- git clone <your-repo-url>
-- cd <your-repo-name>
+- git clone `<your-repo-url>`
+- cd `<your-repo-name>`
 
 ### Create and activate a virtual environment:
 
